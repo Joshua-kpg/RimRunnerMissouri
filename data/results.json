@@ -1,4 +1,18 @@
 {
  "about": "RimRunnerMissouri 2026-27 finals ledger, written by scripts/update_scores.py. Keyed by MaxPreps contest id. homeMp/awayMp are MaxPreps team ids. state: applied | unlisted (one team not in our list; counts for records only) | pending (final between listed teams with no scheduled game yet; awaiting team-page check) | ignored.",
- "finals": {}
+ "finals": {
+  "c026ce05-6689-4ebd-8766-193ed90dd577": {
+   "awayMp": "1fa9618b-a39d-42ae-8c35-f004fe6a8132",
+   "awayScore": 46,
+   "date": "2026-11-06",
+   "forfeit": false,
+   "gameId": "mo26-0001",
+   "homeMp": "85350e27-f71a-4289-ab94-1797f718b5df",
+   "homeScore": 26,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "away"
+  }
+ }
 }
