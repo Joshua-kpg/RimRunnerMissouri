@@ -1,6 +1,21 @@
 {
  "about": "RimRunnerMissouri 2026-27 finals ledger, written by scripts/update_scores.py. Keyed by MaxPreps contest id. homeMp/awayMp are MaxPreps team ids. state: applied | unlisted (one team not in our list; counts for records only) | pending (final between listed teams with no scheduled game yet; awaiting team-page check) | ignored.",
  "finals": {
+  "05b62297-ace3-4a88-b6a6-23c7f8497958": {
+   "awayMp": "e00d93b5-2ce1-4abc-9b94-0273af6f1a7a",
+   "awayScore": 27,
+   "date": "2026-11-16",
+   "forfeit": false,
+   "gameId": "mo26-x002",
+   "gameType": "conference",
+   "homeMp": "47b04447-d503-4051-b221-790d5fda9357",
+   "homeScore": 57,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "home"
+  },
   "2a7f479a-bc5a-41ef-998e-b37add4864ac": {
    "awayMp": "d88298e5-bd08-4a59-b7d2-dbd3b6bea9bb",
    "awayScore": 24,
@@ -77,6 +92,21 @@
    "state": "unlisted",
    "winner": "home"
   },
+  "83e77dcf-c16e-46a9-ad75-22021393b741": {
+   "awayMp": "2420d12b-b140-4d30-984e-b065944c4936",
+   "awayScore": 56,
+   "date": "2026-11-16",
+   "forfeit": false,
+   "gameId": "mo26-x003",
+   "gameType": "non-conference",
+   "homeMp": "d7a466bf-dbb2-43a5-9901-db2f23ef4e89",
+   "homeScore": 42,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "away"
+  },
   "8c483586-e715-43aa-b1a6-8856fee09f9c": {
    "awayMp": "47b04447-d503-4051-b221-790d5fda9357",
    "awayScore": 52,
@@ -139,6 +169,18 @@
    "source": "scores-page",
    "state": "unlisted",
    "winner": "home"
+  },
+  "f6ba503c-25f0-462f-a2ae-7737bc3754f8": {
+   "awayMp": "4d634072-d325-474f-85db-26bbaf4b2725",
+   "awayScore": 46,
+   "date": "2026-11-16",
+   "forfeit": false,
+   "homeMp": "e7849666-bcdc-441e-a74f-b47b5f111f62",
+   "homeScore": 14,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "unlisted",
+   "winner": "away"
   }
  }
 }
